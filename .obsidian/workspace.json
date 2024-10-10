@@ -128,21 +128,14 @@
                 "file": "Aide - Rappels OMNI/Résoudre une équation différentielle du second ordre.md"
               }
             }
-          },
-          {
-            "id": "ef8f363de976db42",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +149,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d755ef93912ee3b",
+  "active": "7daed8ae26536e25",
   "lastOpenFiles": [
+    "netlify.toml",
+    "Nouveau Document texte.txt",
     "Aide - Rappels OMNI/Résoudre une équation différentielle du premier ordre.md",
     "Aide - Rappels OMNI/Equations différentielles en Physique.md",
     "Aide - Rappels OMNI/Dérivation des vecteurs unitaires (par rapport au temps).md",
