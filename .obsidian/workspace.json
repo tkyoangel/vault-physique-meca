@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "d599fa52987475d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "41f673fcf590eaaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d548b261f2593ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aide - Rappels OMNI/Résoudre une équation différentielle du second ordre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03d5eeba27d78f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d9c131276ddf0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d755ef93912ee3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52de6ea661546859",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee2840fcbc041d85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "131bb6fdd539b730",
+    "type": "split",
+    "children": [
+      {
+        "id": "50c92dd178213256",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23b6d3d3cb425f1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aide - Rappels OMNI/Résoudre une équation différentielle du second ordre.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d78d5f6da00fab7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aide - Rappels OMNI/Résoudre une équation différentielle du second ordre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a7c25abef6f03d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7daed8ae26536e25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aide - Rappels OMNI/Résoudre une équation différentielle du second ordre.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "4d548b261f2593ca",
+  "lastOpenFiles": [
+    "Aide - Rappels OMNI/Résoudre une équation différentielle du premier ordre.md",
+    "Aide - Rappels OMNI/Equations différentielles en Physique.md",
+    "Aide - Rappels OMNI/Dérivation des vecteurs unitaires (par rapport au temps).md",
+    "Aide - Rappels OMNI/Résoudre une équation différentielle du second ordre.md",
+    "Cinématique/Repérer la position de P.md",
+    "PDFs/09_equations_differentiellles_physique.pdf",
+    "Dynamique",
+    "PDFs",
+    "Ressources/Pasted image 20241010174319.png",
+    "Ressources/Pasted image 20241010155938.png",
+    "Ressources/Pasted image 20241010155959.png",
+    "Cinématique/Vitesse d'un point matériel.md",
+    "Cinématique/Base de Frenet.md",
+    "Cinématique/Accélération d'un point matériel.md",
+    "PDFs/Poly Meca.pdf",
+    "Ressources/favicon.svg",
+    "Cinématique/Abscisse Curviligne.md",
+    "Ressources/Pasted image 20241005153442.png",
+    "Notes CM Méca.md",
+    "Sans titre 1.md",
+    "Aide - Rappels OMNI",
+    "Res/Sans titre",
+    "Ressources",
+    "Cinématique",
+    "Bienvenue.md"
+  ]
+}
