@@ -128,13 +128,21 @@
                 "file": "Aide - Rappels OMNI/Résoudre une équation différentielle du second ordre.md"
               }
             }
+          },
+          {
+            "id": "ef8f363de976db42",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,10 +152,11 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d548b261f2593ca",
+  "active": "9d755ef93912ee3b",
   "lastOpenFiles": [
     "Aide - Rappels OMNI/Résoudre une équation différentielle du premier ordre.md",
     "Aide - Rappels OMNI/Equations différentielles en Physique.md",
